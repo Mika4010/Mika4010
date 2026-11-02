@@ -1,4 +1,4 @@
-﻿# Salut, moi c'est Mika 👋
+﻿# Salut 👋
 
 Passionné par le développement, l'automatisation et l'administration système.
 
@@ -13,9 +13,3 @@ Passionné par le développement, l'automatisation et l'administration système.
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mika4010&show_icons=true&theme=tokyonight&hide_border=true" alt="Mika's GitHub stats" />
-</p>
